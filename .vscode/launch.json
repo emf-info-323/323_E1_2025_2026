@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Évaluation E1",
+            "file": "${workspaceFolder}/src/e1.html"
+        }
+    ]
+}
